@@ -1,0 +1,174 @@
+[
+  {
+    "ContainingType": "BookManagerAPI.Controllers.LivrosController",
+    "Method": "VerLivros",
+    "RelativePath": "api/Livros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[BookManagerAPI.Models.Livro, LIVRARIAS SENAI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BookManagerAPI.Controllers.LivrosController",
+    "Method": "AdicionarLivro",
+    "RelativePath": "api/Livros",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newBook",
+        "Type": "BookManagerAPI.Models.Livro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookManagerAPI.Controllers.LivrosController",
+    "Method": "RemoverLivro",
+    "RelativePath": "api/Livros/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookManagerAPI.Controllers.LivrosController",
+    "Method": "DevolverLivro",
+    "RelativePath": "api/Livros/{livroId}/devolver/{usuarioId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "livroId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookManagerAPI.Controllers.LivrosController",
+    "Method": "EmprestarLivro",
+    "RelativePath": "api/Livros/{livroId}/emprestar/{usuarioId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "livroId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookManagerAPI.Controllers.LivrosController",
+    "Method": "LivrosEmprestados",
+    "RelativePath": "api/Livros/emprestados",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookManagerAPI.Controllers.LivrosController",
+    "Method": "RemoverLivroInteiro",
+    "RelativePath": "api/Livros/remover-livro/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookManagerAPI.Controllers.UsuarioController",
+    "Method": "VerUsuarios",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[BookManagerAPI.Models.Usuario, LIVRARIAS SENAI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BookManagerAPI.Controllers.UsuarioController",
+    "Method": "AdicionarUsuario",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "novoUsuario",
+        "Type": "BookManagerAPI.Models.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookManagerAPI.Controllers.UsuarioController",
+    "Method": "DeletarUsuario",
+    "RelativePath": "api/Usuario/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

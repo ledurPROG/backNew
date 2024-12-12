@@ -1,0 +1,66 @@
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\bin\Debug\net8.0\appsettings.json
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\bin\Debug\net8.0\LIVRARIAS SENAI.exe
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\bin\Debug\net8.0\LIVRARIAS SENAI.deps.json
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\bin\Debug\net8.0\LIVRARIAS SENAI.runtimeconfig.json
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\bin\Debug\net8.0\LIVRARIAS SENAI.dll
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\bin\Debug\net8.0\LIVRARIAS SENAI.pdb
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\obj\Debug\net8.0\LIVRARIAS SENAI.csproj.AssemblyReference.cache
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\obj\Debug\net8.0\LIVRARIAS SENAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\obj\Debug\net8.0\LIVRARIAS SENAI.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\obj\Debug\net8.0\LIVRARIAS SENAI.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\obj\Debug\net8.0\LIVRARIAS SENAI.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\obj\Debug\net8.0\LIVRARIAS SENAI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\obj\Debug\net8.0\LIVRARIAS SENAI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\obj\Debug\net8.0\staticwebassets\msbuild.LIVRARIAS SENAI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\obj\Debug\net8.0\staticwebassets\msbuild.build.LIVRARIAS SENAI.props
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LIVRARIAS SENAI.props
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LIVRARIAS SENAI.props
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\obj\Debug\net8.0\scopedcss\bundle\LIVRARIAS SENAI.styles.css
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\obj\Debug\net8.0\LIVRARIA.384D0EA8.Up2Date
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\obj\Debug\net8.0\LIVRARIAS SENAI.dll
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\obj\Debug\net8.0\refint\LIVRARIAS SENAI.dll
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\obj\Debug\net8.0\LIVRARIAS SENAI.pdb
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\obj\Debug\net8.0\LIVRARIAS SENAI.genruntimeconfig.cache
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\livrarias senai back\api\obj\Debug\net8.0\ref\LIVRARIAS SENAI.dll
+C:\Users\Aluno\Desktop\back\api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aluno\Desktop\back\api\bin\Debug\net8.0\appsettings.json
+C:\Users\Aluno\Desktop\back\api\bin\Debug\net8.0\LIVRARIAS SENAI.exe
+C:\Users\Aluno\Desktop\back\api\bin\Debug\net8.0\LIVRARIAS SENAI.deps.json
+C:\Users\Aluno\Desktop\back\api\bin\Debug\net8.0\LIVRARIAS SENAI.runtimeconfig.json
+C:\Users\Aluno\Desktop\back\api\bin\Debug\net8.0\LIVRARIAS SENAI.dll
+C:\Users\Aluno\Desktop\back\api\bin\Debug\net8.0\LIVRARIAS SENAI.pdb
+C:\Users\Aluno\Desktop\back\api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Aluno\Desktop\back\api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Aluno\Desktop\back\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aluno\Desktop\back\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aluno\Desktop\back\api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aluno\Desktop\back\api\obj\Debug\net8.0\LIVRARIAS SENAI.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\back\api\obj\Debug\net8.0\LIVRARIAS SENAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\back\api\obj\Debug\net8.0\LIVRARIAS SENAI.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\back\api\obj\Debug\net8.0\LIVRARIAS SENAI.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\back\api\obj\Debug\net8.0\LIVRARIAS SENAI.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\back\api\obj\Debug\net8.0\LIVRARIAS SENAI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\Desktop\back\api\obj\Debug\net8.0\LIVRARIAS SENAI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Desktop\back\api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aluno\Desktop\back\api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aluno\Desktop\back\api\obj\Debug\net8.0\staticwebassets\msbuild.LIVRARIAS SENAI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Desktop\back\api\obj\Debug\net8.0\staticwebassets\msbuild.build.LIVRARIAS SENAI.props
+C:\Users\Aluno\Desktop\back\api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LIVRARIAS SENAI.props
+C:\Users\Aluno\Desktop\back\api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LIVRARIAS SENAI.props
+C:\Users\Aluno\Desktop\back\api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aluno\Desktop\back\api\obj\Debug\net8.0\scopedcss\bundle\LIVRARIAS SENAI.styles.css
+C:\Users\Aluno\Desktop\back\api\obj\Debug\net8.0\LIVRARIA.384D0EA8.Up2Date
+C:\Users\Aluno\Desktop\back\api\obj\Debug\net8.0\LIVRARIAS SENAI.dll
+C:\Users\Aluno\Desktop\back\api\obj\Debug\net8.0\refint\LIVRARIAS SENAI.dll
+C:\Users\Aluno\Desktop\back\api\obj\Debug\net8.0\LIVRARIAS SENAI.pdb
+C:\Users\Aluno\Desktop\back\api\obj\Debug\net8.0\LIVRARIAS SENAI.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\back\api\obj\Debug\net8.0\ref\LIVRARIAS SENAI.dll

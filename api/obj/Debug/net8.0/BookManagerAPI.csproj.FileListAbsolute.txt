@@ -1,0 +1,169 @@
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.exe
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.deps.json
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.runtimeconfig.json
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.dll
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.pdb
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.BookManagerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.BookManagerAPI.props
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookManagerAPI.props
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookManagerAPI.props
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\scopedcss\bundle\BookManagerAPI.styles.css
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookMana.12AFCC69.Up2Date
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.dll
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\refint\BookManagerAPI.dll
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.pdb
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\ref\BookManagerAPI.dll
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.exe
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.deps.json
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.runtimeconfig.json
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.dll
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.pdb
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.csproj.AssemblyReference.cache
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.AssemblyInfoInputs.cache
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.AssemblyInfo.cs
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.BookManagerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.BookManagerAPI.props
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookManagerAPI.props
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookManagerAPI.props
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\scopedcss\bundle\BookManagerAPI.styles.css
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookMana.12AFCC69.Up2Date
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.dll
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\refint\BookManagerAPI.dll
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.pdb
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.genruntimeconfig.cache
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\ref\BookManagerAPI.dll
+C:\Users\Microsoft\Desktop\projetofinal\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.sourcelink.json
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.exe
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.deps.json
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.runtimeconfig.json
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.dll
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.pdb
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.sourcelink.json
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.BookManagerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.BookManagerAPI.props
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookManagerAPI.props
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookManagerAPI.props
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\scopedcss\bundle\BookManagerAPI.styles.css
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookMana.12AFCC69.Up2Date
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.dll
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\refint\BookManagerAPI.dll
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.pdb
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\ref\BookManagerAPI.dll
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.exe
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.deps.json
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.runtimeconfig.json
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.dll
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.pdb
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.csproj.AssemblyReference.cache
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.AssemblyInfoInputs.cache
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.AssemblyInfo.cs
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.sourcelink.json
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.BookManagerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.BookManagerAPI.props
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookManagerAPI.props
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookManagerAPI.props
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\scopedcss\bundle\BookManagerAPI.styles.css
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookMana.12AFCC69.Up2Date
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.dll
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\refint\BookManagerAPI.dll
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.pdb
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.genruntimeconfig.cache
+C:\Users\Microsoft\Desktop\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\ref\BookManagerAPI.dll
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.exe
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.deps.json
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.runtimeconfig.json
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.dll
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\BookManagerAPI.pdb
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.csproj.AssemblyReference.cache
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.sourcelink.json
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.BookManagerAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.BookManagerAPI.props
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookManagerAPI.props
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookManagerAPI.props
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\scopedcss\bundle\BookManagerAPI.styles.css
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookMana.12AFCC69.Up2Date
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.dll
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\refint\BookManagerAPI.dll
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.pdb
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.genruntimeconfig.cache
+C:\Users\grand\OneDrive\Área de Trabalho\Biblioteca\BIBLIOTECA\BookManagerAPI\obj\Debug\net8.0\ref\BookManagerAPI.dll
